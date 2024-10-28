@@ -3,3 +3,4 @@
 - Juan Miguel Sánchez Arce \<<juan.sanchez@camptocamp.com>\>
 - [Trobz](https://www.trobz.com):
   - Tris Doan \<<tridm@trobz.com>\>
+  - Tuan Nguyen \<<tuanna@trobz.com>\>
